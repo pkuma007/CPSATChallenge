@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="168446" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:09:15 IST">
+    <groups>
+    </groups>
+    <test name="TestNgTest1" duration-ms="35670" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:07:03 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="beforeClass" is-config="true" duration-ms="9610" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:06:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="meripustakTest()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="meripustakTest" duration-ms="25164" started-at="2019-10-15T17:06:37 IST" finished-at="2019-10-15T17:07:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meripustakTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="afterClass" is-config="true" duration-ms="854" started-at="2019-10-15T17:07:02 IST" finished-at="2019-10-15T17:07:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest1 -->
+    </test> <!-- TestNgTest1 -->
+    <test name="TestNgTest6" duration-ms="40020" started-at="2019-10-15T17:07:03 IST" finished-at="2019-10-15T17:07:43 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="beforeClass" is-config="true" duration-ms="28393" started-at="2019-10-15T17:07:03 IST" finished-at="2019-10-15T17:07:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="woodlandworldwideTest()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="woodlandworldwideTest" duration-ms="10591" started-at="2019-10-15T17:07:31 IST" finished-at="2019-10-15T17:07:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- woodlandworldwideTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="afterClass" is-config="true" duration-ms="1036" started-at="2019-10-15T17:07:42 IST" finished-at="2019-10-15T17:07:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest6 -->
+    </test> <!-- TestNgTest6 -->
+    <test name="JunitTestSuite" duration-ms="92689" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:09:15 IST">
+      <class name="com.pk.ATAChallenge2019.JUnitTest2">
+        <test-method status="PASS" signature="ciiOnlineRegistartionTest()" name="ciiOnlineRegistartionTest" duration-ms="12015" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:07:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ciiOnlineRegistartionTest -->
+      </class> <!-- com.pk.ATAChallenge2019.JUnitTest2 -->
+      <class name="com.pk.ATAChallenge2019.JUnitTest4">
+        <test-method status="PASS" signature="hometownTest() throws java.lang.InterruptedException" name="hometownTest" duration-ms="90516" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:09:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hometownTest -->
+      </class> <!-- com.pk.ATAChallenge2019.JUnitTest4 -->
+      <class name="com.pk.ATAChallenge2019.JUnitTest3">
+        <test-method status="PASS" signature="premierLeagueTest() throws java.lang.InterruptedException" name="premierLeagueTest" duration-ms="38951" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:08:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- premierLeagueTest -->
+      </class> <!-- com.pk.ATAChallenge2019.JUnitTest3 -->
+    </test> <!-- JunitTestSuite -->
+  </suite> <!-- TestSuite -->
+</testng-results>
