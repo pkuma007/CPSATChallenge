@@ -10,6 +10,6 @@ Run as 'Maven test'
       OR
 Run testng.xml file as TestNG Suite
 
-1 Junit Tests are added in to testngxml file and all Tests are running using testng.xml file.
+1 Junit Test is added in to testngxml file and all Tests are running using testng.xml file.
 
 Last run report : ATAChallenge2019_2/target/surefire-reports/index.html
