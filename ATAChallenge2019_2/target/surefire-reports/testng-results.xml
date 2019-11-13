@@ -1,61 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="168446" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:09:15 IST">
+  <suite name="TestSuite" duration-ms="153176" started-at="2019-11-13T14:38:37 IST" finished-at="2019-11-13T14:41:10 IST">
     <groups>
     </groups>
-    <test name="TestNgTest1" duration-ms="35670" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:07:03 IST">
-      <class name="com.pk.ATAChallenge2019.TestngTest1">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="beforeClass" is-config="true" duration-ms="9610" started-at="2019-10-15T17:06:27 IST" finished-at="2019-10-15T17:06:37 IST">
+    <test name="JunitTest1" duration-ms="27275" started-at="2019-11-13T14:38:37 IST" finished-at="2019-11-13T14:39:04 IST">
+      <class name="com.pk.ATAChallenge2019.JUnitTest1">
+        <test-method status="PASS" signature="agiletestingallianceChromeTest1() throws java.lang.Exception" name="agiletestingallianceChromeTest1" duration-ms="26376" started-at="2019-11-13T14:38:37 IST" finished-at="2019-11-13T14:39:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- agiletestingallianceChromeTest1 -->
+      </class> <!-- com.pk.ATAChallenge2019.JUnitTest1 -->
+    </test> <!-- JunitTest1 -->
+    <test name="TestNgTest2" duration-ms="10610" started-at="2019-11-13T14:39:04 IST" finished-at="2019-11-13T14:39:15 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest2@5f2108b5]" name="beforeClass" is-config="true" duration-ms="9587" started-at="2019-11-13T14:39:04 IST" finished-at="2019-11-13T14:39:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="meripustakTest()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="meripustakTest" duration-ms="25164" started-at="2019-10-15T17:06:37 IST" finished-at="2019-10-15T17:07:02 IST">
+        <test-method status="PASS" signature="nseindiaChromeTest2()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest2@5f2108b5]" name="nseindiaChromeTest2" duration-ms="229" started-at="2019-11-13T14:39:14 IST" finished-at="2019-11-13T14:39:14 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- meripustakTest -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest1@53b32d7]" name="afterClass" is-config="true" duration-ms="854" started-at="2019-10-15T17:07:02 IST" finished-at="2019-10-15T17:07:03 IST">
+        </test-method> <!-- nseindiaChromeTest2 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest2@5f2108b5]" name="afterClass" is-config="true" duration-ms="756" started-at="2019-11-13T14:39:14 IST" finished-at="2019-11-13T14:39:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- com.pk.ATAChallenge2019.TestngTest1 -->
-    </test> <!-- TestNgTest1 -->
-    <test name="TestNgTest6" duration-ms="40020" started-at="2019-10-15T17:07:03 IST" finished-at="2019-10-15T17:07:43 IST">
-      <class name="com.pk.ATAChallenge2019.TestngTest6">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="beforeClass" is-config="true" duration-ms="28393" started-at="2019-10-15T17:07:03 IST" finished-at="2019-10-15T17:07:31 IST">
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest2 -->
+    </test> <!-- TestNgTest2 -->
+    <test name="TestNgTest3" duration-ms="18371" started-at="2019-11-13T14:39:15 IST" finished-at="2019-11-13T14:39:33 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest3@56ef9176]" name="beforeClass" is-config="true" duration-ms="12695" started-at="2019-11-13T14:39:15 IST" finished-at="2019-11-13T14:39:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="woodlandworldwideTest()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="woodlandworldwideTest" duration-ms="10591" started-at="2019-10-15T17:07:31 IST" finished-at="2019-10-15T17:07:42 IST">
+        <test-method status="PASS" signature="nseindiaFirfoxTest3()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest3@56ef9176]" name="nseindiaFirfoxTest3" duration-ms="4282" started-at="2019-11-13T14:39:27 IST" finished-at="2019-11-13T14:39:32 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- woodlandworldwideTest -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@6e1567f1]" name="afterClass" is-config="true" duration-ms="1036" started-at="2019-10-15T17:07:42 IST" finished-at="2019-10-15T17:07:43 IST">
+        </test-method> <!-- nseindiaFirfoxTest3 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest3@56ef9176]" name="afterClass" is-config="true" duration-ms="1392" started-at="2019-11-13T14:39:32 IST" finished-at="2019-11-13T14:39:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest3 -->
+    </test> <!-- TestNgTest3 -->
+    <test name="TestNgTest4" duration-ms="27393" started-at="2019-11-13T14:39:33 IST" finished-at="2019-11-13T14:40:00 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest4@5649fd9b]" name="beforeClass" is-config="true" duration-ms="10168" started-at="2019-11-13T14:39:33 IST" finished-at="2019-11-13T14:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="nseindiaChromeTest4()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest4@5649fd9b]" name="nseindiaChromeTest4" duration-ms="16388" started-at="2019-11-13T14:39:43 IST" finished-at="2019-11-13T14:40:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nseindiaChromeTest4 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest4@5649fd9b]" name="afterClass" is-config="true" duration-ms="836" started-at="2019-11-13T14:40:00 IST" finished-at="2019-11-13T14:40:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest4 -->
+    </test> <!-- TestNgTest4 -->
+    <test name="TestNgTest5" duration-ms="36672" started-at="2019-11-13T14:40:00 IST" finished-at="2019-11-13T14:40:37 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest5@64bfbc86]" name="beforeClass" is-config="true" duration-ms="15993" started-at="2019-11-13T14:40:00 IST" finished-at="2019-11-13T14:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="shopperStopChromeTest5()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest5@64bfbc86]" name="shopperStopChromeTest5" duration-ms="19732" started-at="2019-11-13T14:40:16 IST" finished-at="2019-11-13T14:40:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopperStopChromeTest5 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest5@64bfbc86]" name="afterClass" is-config="true" duration-ms="947" started-at="2019-11-13T14:40:36 IST" finished-at="2019-11-13T14:40:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest5 -->
+    </test> <!-- TestNgTest5 -->
+    <test name="TestNgTest6" duration-ms="32639" started-at="2019-11-13T14:40:37 IST" finished-at="2019-11-13T14:41:10 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@7e0b0338]" name="beforeClass" is-config="true" duration-ms="8293" started-at="2019-11-13T14:40:37 IST" finished-at="2019-11-13T14:40:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="nseindiaChromeTest6()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@7e0b0338]" name="nseindiaChromeTest6" duration-ms="23517" started-at="2019-11-13T14:40:45 IST" finished-at="2019-11-13T14:41:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nseindiaChromeTest6 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@7e0b0338]" name="afterClass" is-config="true" duration-ms="829" started-at="2019-11-13T14:41:09 IST" finished-at="2019-11-13T14:41:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.pk.ATAChallenge2019.TestngTest6 -->
     </test> <!-- TestNgTest6 -->
-    <test name="JunitTestSuite" duration-ms="92689" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:09:15 IST">
-      <class name="com.pk.ATAChallenge2019.JUnitTest2">
-        <test-method status="PASS" signature="ciiOnlineRegistartionTest()" name="ciiOnlineRegistartionTest" duration-ms="12015" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:07:55 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ciiOnlineRegistartionTest -->
-      </class> <!-- com.pk.ATAChallenge2019.JUnitTest2 -->
-      <class name="com.pk.ATAChallenge2019.JUnitTest4">
-        <test-method status="PASS" signature="hometownTest() throws java.lang.InterruptedException" name="hometownTest" duration-ms="90516" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:09:13 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- hometownTest -->
-      </class> <!-- com.pk.ATAChallenge2019.JUnitTest4 -->
-      <class name="com.pk.ATAChallenge2019.JUnitTest3">
-        <test-method status="PASS" signature="premierLeagueTest() throws java.lang.InterruptedException" name="premierLeagueTest" duration-ms="38951" started-at="2019-10-15T17:07:43 IST" finished-at="2019-10-15T17:08:22 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- premierLeagueTest -->
-      </class> <!-- com.pk.ATAChallenge2019.JUnitTest3 -->
-    </test> <!-- JunitTestSuite -->
   </suite> <!-- TestSuite -->
 </testng-results>
