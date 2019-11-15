@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="386002" started-at="2019-11-11T21:42:26 IST" finished-at="2019-11-11T21:48:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="386002" started-at="2019-11-11T21:42:26 IST" finished-at="2019-11-11T21:48:52 IST">
+      <class name="com.pk.ATAChallenge2019.TestngTest6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@76505305]" name="beforeClass" is-config="true" duration-ms="16937" started-at="2019-11-11T21:42:26 IST" finished-at="2019-11-11T21:42:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="nseindiaChromeTest6()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@76505305]" name="nseindiaChromeTest6" duration-ms="367960" started-at="2019-11-11T21:42:43 IST" finished-at="2019-11-11T21:48:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nseindiaChromeTest6 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pk.ATAChallenge2019.TestngTest6@76505305]" name="afterClass" is-config="true" duration-ms="1049" started-at="2019-11-11T21:48:51 IST" finished-at="2019-11-11T21:48:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pk.ATAChallenge2019.TestngTest6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

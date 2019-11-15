@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" parallel="false" >
+	 <test name="JunitTest1" junit="true">
+	    <classes>
+	      <class name="com.pk.ATAChallenge2019.JUnitTest1"/>
+	    </classes>
+	</test> <!-- JunitTest -->
+	<test name="TestNgTest2">
+	    <classes>
+	      <class name="com.pk.ATAChallenge2019.TestngTest2"/>
+	    </classes>
+	 </test> <!-- Test -->
+	 <test name="TestNgTest3">
+	    <classes>
+	      <class name="com.pk.ATAChallenge2019.TestngTest3"/>
+	    </classes>
+	 </test> <!-- Test -->
+	 <test name="TestNgTest4">
+	    <classes>
+	      <class name="com.pk.ATAChallenge2019.TestngTest4"/>
+	    </classes>
+	 </test> <!-- Test -->
+	 <test name="TestNgTest5">
+	    <classes>
+	      <class name="com.pk.ATAChallenge2019.TestngTest5"/>
+	    </classes>
+	 </test> <!-- Test -->
+	 <test name="TestNgTest6">
+	   <classes>
+	     <class name="com.pk.ATAChallenge2019.TestngTest6"/>
+	   </classes>
+	 </test> <!-- Test -->
+	
+</suite> <!-- Suite -->
